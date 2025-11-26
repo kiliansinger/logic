@@ -1,6 +1,6 @@
 # LOGIC - small c compiler with virtual machine
 
-This is a proof of concept of a small c compiler with virtual machine. It can handly c99 standard except for structs and unions. It was written as an educational project to understand compiler design and to understand the design of the c programming language.
+This is a proof of concept of a small c compiler with virtual machine. It can handle c99 standard except for structs and unions. It was written as an educational project to understand compiler design and to understand the design of the c programming language.
 
 ```
 //Roadmap:
