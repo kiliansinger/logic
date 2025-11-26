@@ -2,6 +2,7 @@
 
 This is a proof of concept of a small c compiler with virtual machine. It can handly c99 standard except for structs and unions. It was written as an educational project to understand compiler design and to understand the design of the c programming language.
 
+```
 //Roadmap:
 //preprocessor could be run at the successively
 //this has advantage that backtracking is easy with
@@ -482,3 +483,4 @@ AppWizard uses "TODO:" comments to indicate parts of the source code you
 should add to or customize.
 
 /////////////////////////////////////////////////////////////////////////////
+```
