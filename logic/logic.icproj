@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="12.1"
+	Name="logic"
+	ProjectGUID="{0F2E0046-7B59-4D75-A594-AB7A062F1ED6}"
+	VCNestedProjectGUID="{690F0C69-60D6-485B-8355-A0B922DBC73B}"
+	VCNestedProjectFileName="logic.vcproj"
+	>
+	<Configurations/>
+	<Files/>
+</VisualStudioProject>

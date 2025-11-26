@@ -1,0 +1,301 @@
+AND_expression
+equality_expression
+relational_expression
+shift_expression
+additive_expression
+multiplicative_expression
+cast_expression
+        reject
+unary_expression
+postfix_expression
+primary_expression
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+selection_statement
+        reject
+iteration_statement
+        reject
+jump_statement
+        reject
+user_defined_statement
+expression
+assignment_expression
+unary_expression
+postfix_expression
+primary_expression
+        3229
+        reject
+conditional_expression
+logical_OR_expression
+logical_AND_expression
+inclusive_OR_expression
+exclusive_OR_expression
+AND_expression
+equality_expression
+relational_expression
+shift_expression
+additive_expression
+multiplicative_expression
+cast_expression
+        reject
+unary_expression
+postfix_expression
+primary_expression
+patch
+        3229
+patch
+declaration
+declaration_specifiers
+struct_or_union_specifier
+        reject
+enum_specifier
+        reject
+typedef_name
+        reject
+        reject
+labeled_statement
+        reject
+compound_statement
+        reject
+expression_statement
+expression
+assignment_expression
+unary_expression
+postfix_expression
+primary_expression
+        reject
+        reject
+        reject
+        reject
+conditional_expression
+logical_OR_expression
+logical_AND_expression
+inclusive_OR_expression
+exclusive_OR_expression
+AND_expression
+equality_expression
+relational_expression
+shift_expression
+additive_expression
+multiplicative_expression
+cast_expression
+        reject
+unary_expression
+postfix_expression
+primary_expression
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+declaration
+declaration_specifiers
+struct_or_union_specifier
+        reject
+enum_specifier
+        reject
+typedef_name
+        reject
+        reject
+labeled_statement
+        reject
+compound_statement
+        reject
+expression_statement
+expression
+assignment_expression
+unary_expression
+postfix_expression
+primary_expression
+        reject
+        reject
+        reject
+        reject
+conditional_expression
+logical_OR_expression
+logical_AND_expression
+inclusive_OR_expression
+exclusive_OR_expression
+AND_expression
+equality_expression
+relational_expression
+shift_expression
+additive_expression
+multiplicative_expression
+cast_expression
+        reject
+unary_expression
+postfix_expression
+primary_expression
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+selection_statement
+        reject
+iteration_statement
+        reject
+jump_statement
+        reject
+user_defined_statement
+        reject
+patch
+patch
+labeled_statement
+labeled_statement
+        reject
+compound_statement
+        reject
+expression_statement
+expression
+assignment_expression
+unary_expression
+postfix_expression
+primary_expression
+        reject
+        reject
+        reject
+        reject
+conditional_expression
+logical_OR_expression
+logical_AND_expression
+inclusive_OR_expression
+exclusive_OR_expression
+AND_expression
+equality_expression
+relational_expression
+shift_expression
+additive_expression
+multiplicative_expression
+cast_expression
+        reject
+unary_expression
+postfix_expression
+primary_expression
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+declaration
+declaration_specifiers
+struct_or_union_specifier
+        reject
+enum_specifier
+        reject
+typedef_name
+        reject
+        reject
+labeled_statement
+        reject
+compound_statement
+        reject
+expression_statement
+expression
+assignment_expression
+unary_expression
+postfix_expression
+primary_expression
+        reject
+        reject
+        reject
+        reject
+conditional_expression
+logical_OR_expression
+logical_AND_expression
+inclusive_OR_expression
+exclusive_OR_expression
+AND_expression
+equality_expression
+relational_expression
+shift_expression
+additive_expression
+multiplicative_expression
+cast_expression
+        reject
+unary_expression
+postfix_expression
+primary_expression
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+        reject
+selection_statement
+        reject
+iteration_statement
+        reject
+jump_statement
+        reject
+user_defined_statement
+        reject
+patch
+
+here we crash inside hash 938
